@@ -1,4 +1,4 @@
-﻿This repository contains the code and input data supporting the manuscript  
+This repository contains the code and input data supporting the manuscript  
 "Resource-Environmental Efficiency Trap in Swine Production: A Multi-Frontier SBM-DEA Analysis."
 
 ## Repository Structure
@@ -73,10 +73,3 @@
 ## Reproducibility Scope
 
 The package supports reproduction of the manuscript's primary frontier estimates, scale-mechanism analysis, causal inference outputs, and robustness checks, conditional on input data availability.
-
-
-
-
-
-
-
