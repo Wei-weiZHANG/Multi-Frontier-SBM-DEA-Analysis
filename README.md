@@ -54,7 +54,7 @@ This repository contains the code and input data supporting the manuscript
   `sandwich`, `lmtest`, `broom`, `MASS`, `Metrics`, and `reshape2`.
 - Package installation uses standard CRAN provisioning.
 
-### Python Environment (Optional)
+### Python Environment
 
 - Reference runtime: Python 3.10 or higher.
 - Packages:
