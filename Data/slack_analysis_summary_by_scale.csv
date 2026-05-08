@@ -1,0 +1,181 @@
+frontier,scale_bin,variable_type,variable_name,mean_slack
+A,<5k,Bad Output,Carbon_emission,0.016534352506694862
+A,<5k,Bad Output,Dead_pig,0.07416434198143111
+A,<5k,Bad Output,Eutrophication_potential,1.883371406000683e-4
+A,<5k,Bad Output,Manure,0.03717842250878289
+A,<5k,Bad Output,Waste_water,0.0993027453641644
+A,<5k,Input,Energy_consumption,0.13893573457070804
+A,<5k,Input,Feed,0.08538361377169937
+A,<5k,Input,Labor,0.10686302795573417
+A,<5k,Input,Water_consumption,0.09457459256634086
+A,5-10k,Bad Output,Carbon_emission,5.241726417385684e-4
+A,5-10k,Bad Output,Dead_pig,0.0544087885349911
+A,5-10k,Bad Output,Eutrophication_potential,9.546457955586542e-5
+A,5-10k,Bad Output,Manure,0.06448575235485005
+A,5-10k,Bad Output,Waste_water,0.04510488029627967
+A,5-10k,Input,Energy_consumption,0.07659278551506975
+A,5-10k,Input,Feed,0.08183047474429492
+A,5-10k,Input,Labor,0.07015327834971442
+A,5-10k,Input,Water_consumption,0.05266422223717091
+A,10-20k,Bad Output,Carbon_emission,0.01940861404260995
+A,10-20k,Bad Output,Dead_pig,1.040677020689851
+A,10-20k,Bad Output,Eutrophication_potential,0
+A,10-20k,Bad Output,Manure,0.14005706492420772
+A,10-20k,Bad Output,Waste_water,0.131477655543697
+A,10-20k,Input,Energy_consumption,0.49537878782241934
+A,10-20k,Input,Feed,0.215447658111158
+A,10-20k,Input,Labor,0.3501742371494648
+A,10-20k,Input,Water_consumption,0.3145774213317754
+A,20-50k,Bad Output,Carbon_emission,1.6675744621702793
+A,20-50k,Bad Output,Dead_pig,0.8850991978491505
+A,20-50k,Bad Output,Eutrophication_potential,0
+A,20-50k,Bad Output,Manure,1.8118903463792704
+A,20-50k,Bad Output,Waste_water,1.6720846775275218
+A,20-50k,Input,Energy_consumption,14.587731697019606
+A,20-50k,Input,Feed,0.5722150481127396
+A,20-50k,Input,Labor,0.8426462631441205
+A,20-50k,Input,Water_consumption,0.7647727941192463
+A,>50k,Bad Output,Carbon_emission,1.2389544885158683
+A,>50k,Bad Output,Dead_pig,0.1403352315373782
+A,>50k,Bad Output,Eutrophication_potential,0
+A,>50k,Bad Output,Manure,0.15295509816711447
+A,>50k,Bad Output,Waste_water,0.16995159042293528
+A,>50k,Input,Energy_consumption,0.1899935725057807
+A,>50k,Input,Feed,1.0401605251295547
+A,>50k,Input,Labor,0.030531048426072682
+A,>50k,Input,Water_consumption,0.1562109369316641
+M,<5k,Bad Output,Carbon_emission,0.01939487472213503
+M,<5k,Bad Output,Dead_pig,0.0854243531688522
+M,<5k,Bad Output,Eutrophication_potential,0
+M,<5k,Bad Output,Manure,0.024494468482266368
+M,<5k,Bad Output,Waste_water,0.09718265386649715
+M,<5k,Input,Energy_consumption,0.15324235528571617
+M,<5k,Input,Feed,0.07052743145258093
+M,<5k,Input,Labor,0.11029949871798447
+M,<5k,Input,Water_consumption,0.09421064928206725
+M,5-10k,Bad Output,Carbon_emission,0.0038064042604594034
+M,5-10k,Bad Output,Dead_pig,0.07419860696267398
+M,5-10k,Bad Output,Eutrophication_potential,0
+M,5-10k,Bad Output,Manure,0.028565686705844712
+M,5-10k,Bad Output,Waste_water,0.030929274361673816
+M,5-10k,Input,Energy_consumption,0.08863653213845263
+M,5-10k,Input,Feed,0.06951040738562103
+M,5-10k,Input,Labor,0.07173410610796067
+M,5-10k,Input,Water_consumption,0.046845504514820085
+M,10-20k,Bad Output,Carbon_emission,0.03458790961128954
+M,10-20k,Bad Output,Dead_pig,1.1021197701785042
+M,10-20k,Bad Output,Eutrophication_potential,0
+M,10-20k,Bad Output,Manure,0.021548754746308737
+M,10-20k,Bad Output,Waste_water,0.10016584939779252
+M,10-20k,Input,Energy_consumption,0.4903307841458202
+M,10-20k,Input,Feed,0.2033857759594502
+M,10-20k,Input,Labor,0.32972842740494035
+M,10-20k,Input,Water_consumption,0.2984507652588591
+M,20-50k,Bad Output,Carbon_emission,1.6862785060561944
+M,20-50k,Bad Output,Dead_pig,0.9540681308845629
+M,20-50k,Bad Output,Eutrophication_potential,0
+M,20-50k,Bad Output,Manure,1.649164308043853
+M,20-50k,Bad Output,Waste_water,1.646947695641805
+M,20-50k,Input,Energy_consumption,14.620785454927166
+M,20-50k,Input,Feed,0.5189599694855173
+M,20-50k,Input,Labor,0.8305093831839117
+M,20-50k,Input,Water_consumption,0.7071279692257496
+M,>50k,Bad Output,Carbon_emission,1.3025577919632942
+M,>50k,Bad Output,Dead_pig,0.18863826983728987
+M,>50k,Bad Output,Eutrophication_potential,0
+M,>50k,Bad Output,Manure,0
+M,>50k,Bad Output,Waste_water,0.08803910143058497
+M,>50k,Input,Energy_consumption,0.20444953258678725
+M,>50k,Input,Feed,1.0032470496689627
+M,>50k,Input,Labor,0.055434568751561816
+M,>50k,Input,Water_consumption,0.09797875601114367
+G,<5k,Bad Output,Carbon_emission,0.023667397854372337
+G,<5k,Bad Output,Dead_pig,0.06236657756268867
+G,<5k,Bad Output,Eutrophication_potential,0.00212130039066602
+G,<5k,Bad Output,Manure,0
+G,<5k,Bad Output,Waste_water,0.08055934963171407
+G,<5k,Input,Energy_consumption,0.16194669786653254
+G,<5k,Input,Feed,0.0601933399995017
+G,<5k,Input,Labor,0.11182066390431535
+G,<5k,Input,Water_consumption,0.08662597608544764
+G,5-10k,Bad Output,Carbon_emission,0.010278952400347503
+G,5-10k,Bad Output,Dead_pig,0.046110508140986266
+G,5-10k,Bad Output,Eutrophication_potential,0.005325112566550977
+G,5-10k,Bad Output,Manure,0.03643026006026784
+G,5-10k,Bad Output,Waste_water,0.018021541558422532
+G,5-10k,Input,Energy_consumption,0.10072292987770072
+G,5-10k,Input,Feed,0.08661309451771759
+G,5-10k,Input,Labor,0.06681934066306616
+G,5-10k,Input,Water_consumption,0.04353295026781076
+G,10-20k,Bad Output,Carbon_emission,0.08453567253645557
+G,10-20k,Bad Output,Dead_pig,1.0499544472382047
+G,10-20k,Bad Output,Eutrophication_potential,0
+G,10-20k,Bad Output,Manure,0.01929793064999782
+G,10-20k,Bad Output,Waste_water,0.010592337539323598
+G,10-20k,Input,Energy_consumption,0.5384364557784521
+G,10-20k,Input,Feed,0.20974607628155317
+G,10-20k,Input,Labor,0.3991841831122652
+G,10-20k,Input,Water_consumption,0.22722111100179307
+G,20-50k,Bad Output,Carbon_emission,1.7769753422449373
+G,20-50k,Bad Output,Dead_pig,0.790446837288401
+G,20-50k,Bad Output,Eutrophication_potential,0
+G,20-50k,Bad Output,Manure,1.5226503434717285
+G,20-50k,Bad Output,Waste_water,1.3933037045434855
+G,20-50k,Input,Energy_consumption,15.027866844630525
+G,20-50k,Input,Feed,0.556002282391756
+G,20-50k,Input,Labor,0.9800849085388013
+G,20-50k,Input,Water_consumption,0.5432840314780886
+G,>50k,Bad Output,Carbon_emission,1.2791937565832285
+G,>50k,Bad Output,Dead_pig,0.11576765191585472
+G,>50k,Bad Output,Eutrophication_potential,0
+G,>50k,Bad Output,Manure,0
+G,>50k,Bad Output,Waste_water,0.02838261149102826
+G,>50k,Input,Energy_consumption,0.43350170288851303
+G,>50k,Input,Feed,1.0046544287445722
+G,>50k,Input,Labor,0.07432098410109972
+G,>50k,Input,Water_consumption,0.11246823595688529
+L,<5k,Bad Output,Carbon_emission,0.016571207329795716
+L,<5k,Bad Output,Dead_pig,0.08030290369008479
+L,<5k,Bad Output,Eutrophication_potential,0.005395156061829139
+L,<5k,Bad Output,Manure,0.04896941920124861
+L,<5k,Bad Output,Waste_water,0.11558097477645224
+L,<5k,Input,Energy_consumption,0.13112228362579434
+L,<5k,Input,Feed,0.0874782376020198
+L,<5k,Input,Labor,0.11143094953750919
+L,<5k,Input,Water_consumption,0.1118755148114919
+L,5-10k,Bad Output,Carbon_emission,5.298804348970102e-4
+L,5-10k,Bad Output,Dead_pig,0.04944617487316439
+L,5-10k,Bad Output,Eutrophication_potential,9.546457955586565e-5
+L,5-10k,Bad Output,Manure,0.06610944248110129
+L,5-10k,Bad Output,Waste_water,0.04535949350130636
+L,5-10k,Input,Energy_consumption,0.0754010904471778
+L,5-10k,Input,Feed,0.08412785009969004
+L,5-10k,Input,Labor,0.06830517185710565
+L,5-10k,Input,Water_consumption,0.04957189051236306
+L,10-20k,Bad Output,Carbon_emission,0.020472504201446036
+L,10-20k,Bad Output,Dead_pig,0.9703606057293533
+L,10-20k,Bad Output,Eutrophication_potential,0
+L,10-20k,Bad Output,Manure,0.15095649343537573
+L,10-20k,Bad Output,Waste_water,0.180938484708205
+L,10-20k,Input,Energy_consumption,0.36313442109650773
+L,10-20k,Input,Feed,0.22561319709594707
+L,10-20k,Input,Labor,0.3326547493127207
+L,10-20k,Input,Water_consumption,0.32532736040138566
+L,20-50k,Bad Output,Carbon_emission,1.6602365342218153
+L,20-50k,Bad Output,Dead_pig,0.8193129429872432
+L,20-50k,Bad Output,Eutrophication_potential,0
+L,20-50k,Bad Output,Manure,1.8732060299016717
+L,20-50k,Bad Output,Waste_water,1.6988020343198913
+L,20-50k,Input,Energy_consumption,14.530742319556914
+L,20-50k,Input,Feed,0.5507040214744064
+L,20-50k,Input,Labor,0.8355074161556981
+L,20-50k,Input,Water_consumption,0.7924725356231631
+L,>50k,Bad Output,Carbon_emission,1.1505535451637188
+L,>50k,Bad Output,Dead_pig,0.07252338944051961
+L,>50k,Bad Output,Eutrophication_potential,0
+L,>50k,Bad Output,Manure,0.2036031518211596
+L,>50k,Bad Output,Waste_water,0.31923191462819367
+L,>50k,Input,Energy_consumption,0
+L,>50k,Input,Feed,0.973529131351696
+L,>50k,Input,Labor,0.030531048426072592
+L,>50k,Input,Water_consumption,0.2682070181807444

@@ -1,0 +1,22 @@
+Variable,Unit,Type,Min,Mean,Median,Max,SD,IQR,N
+Feed,t/head,Unit Input,4.4275e-02,4.4152e-01±5.4132e-02,3.6500e-01,1.3573e+00,2.5248e-01,2.6050e-01,86
+Water consumption,t/head,Unit Input,4.1641e-01,2.7163e+00±3.4777e-01,2.0793e+00,7.3976e+00,1.6221e+00,2.2967e+00,86
+Energy consumption,kWh/head,Unit Input,1.5079e-04,1.8364e-02±2.1990e-02,2.6454e-03,8.9423e-01,1.0256e-01,3.5582e-03,86
+Labor,person·h/head,Unit Input,3.3333e-13,5.3278e+00±8.9539e-01,3.5364e+00,2.2683e+01,4.1763e+00,5.3072e+00,86
+Wastewater,t/head,Unit Output,2.4101e-01,1.5216e+00±3.1640e-01,1.1881e+00,1.2649e+01,1.4757e+00,1.1800e+00,86
+Manure,t/head,Unit Output,2.2866e-02,3.0967e-01±1.3299e-01,2.1163e-01,5.4750e+00,6.2031e-01,1.2677e-01,86
+Dead pig,kg/head,Unit Output,2.5000e-04,1.4547e-03±4.1442e-04,1.1234e-03,1.7000e-02,1.9329e-03,1.0961e-03,86
+Carbon emission,tCO2e/head,Unit Output,3.3853e-02,1.7007e-01±8.8840e-02,1.0827e-01,3.6922e+00,4.1437e-01,2.3194e-02,86
+Eutrophication potential,kg PO₄-eq/head,Unit Output,2.8650e-02,3.1239e-02±1.0486e-03,2.8650e-02,4.0370e-02,4.8908e-03,3.4694e-18,86
+M-Frontier TE-VRS,,Efficiency,0.2270,0.8395±0.0512,1.0000,1.0000,0.2390,0.3334,86
+M-Frontier SE,,Efficiency,0.2654,0.8073±0.0443,0.8721,1.0000,0.2066,0.3756,86
+M-Frontier TE-CRS,,Efficiency,0.2092,0.6703±0.0562,0.6249,1.0000,0.2622,0.5432,86
+L-Frontier TE-VRS,,Efficiency,0.2607,0.8477±0.0502,1.0000,1.0000,0.2343,0.3368,86
+L-Frontier SE,,Efficiency,0.2538,0.7693±0.0470,0.7803,1.0000,0.2191,0.3995,86
+L-Frontier TE-CRS,,Efficiency,0.1709,0.6546±0.0597,0.6073,1.0000,0.2783,0.5857,86
+G-Frontier TE-VRS,,Efficiency,0.5363,0.9013±0.0320,1.0000,1.0000,0.1493,0.1951,86
+G-Frontier SE,,Efficiency,0.5188,0.8839±0.0283,0.9475,1.0000,0.1318,0.1952,86
+G-Frontier TE-CRS,,Efficiency,0.4687,0.7939±0.0370,0.8051,1.0000,0.1726,0.3313,86
+A-Frontier TE-VRS,,Efficiency,0.4119,0.8742±0.0404,1.0000,1.0000,0.1885,0.2591,86
+A-Frontier SE,,Efficiency,0.3794,0.8262±0.0365,0.8516,1.0000,0.1703,0.2976,86
+A-Frontier TE-CRS,,Efficiency,0.3153,0.7204±0.0474,0.6923,1.0000,0.2211,0.4465,86
