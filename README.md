@@ -1,5 +1,5 @@
 This repository contains the code and input data supporting the manuscript  
-"Resource-Environmental Efficiency Trap in Swine Production: A Multi-Frontier SBM-DEA Analysis."
+"Resource-Environmental Efficiency Trap of Swine Production in China: A Multi-Frontier SBM-DEA Analysis"
 
 ## Repository Structure
 
