@@ -4,17 +4,9 @@ This repository contains the code and input data supporting the manuscript
 ## Repository Structure
 
 - `Codes/`: Core analysis scripts (`.R` and `.py`).
-- `Data/`: Input data required to run the analyses.
+- `Data/`: Input data required to run the analyses (access to figshare).
 - `LICENSE`: Apache-2.0 license.
 - `README.md`: Unified documentation, including dependencies and usage.
-
-## Data
-
-  - **Frontier efficiency outputs**: `all_frontiers_efficiency.csv`, `all_frontiers_efficiency_with_tgr.csv`, `summary_statistics.csv`, `comprehensive_descriptive_statistics.csv`.
-  - **Inefficiency and slack decomposition**: `meta_frontier_inefficiency_sources.csv`, `slack_analysis_detailed.csv`, `slack_analysis_summary.csv`, `slack_analysis_summary_by_scale.csv`.
-  - **Correlation and rank tests**: `correlation_matrix_VRS.csv`, `correlation_matrix_CRS.csv`, `correlation_matrix_SE.csv`, `rank_correlation_matrix.csv`, `rank_comparison_summary.csv`, `pairwise_tests.csv`.
-  - **Temporal and scale-up effect tables**: `period_fixed_effects_analysis.csv`, `temporal_effect_control_summary.csv`, `scaleup_pre_post_changes.csv`.
-  - **Robustness and calibration files**: `Ushape_robustness_all_models.xlsx`, `optimal_weight_results.xlsx`, `pre_experiment_multiplier_search.csv`, `standardized_data.xlsx`.
 
 ## Code Modules
 
